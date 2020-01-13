@@ -1,0 +1,18 @@
+#form{
+    font-family:Helvetica;
+    text-align:center;
+    background-color:paleturquoise;
+    padding:60px 100px 100px 100px;
+    border:dashed;
+    border-width:10px 0px 10px 0px;
+    border-top-color:black;
+}
+button{
+    border:solid;
+    border-width:2px;
+    border-radius:50px;
+    background-color:lawngreen;
+}
+#lasttitle{
+    text-align:center;
+}
