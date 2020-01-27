@@ -41,6 +41,16 @@ ul{
     position:sticky;
     top:0;
 }
+#spec{
+    background-color:white;;
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    overflow:hidden;
+    position:sticky;
+    top:0;
+    float:right;
+}
 li{
     
     display:inline;
