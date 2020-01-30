@@ -1,23 +1,28 @@
 #form{
+    margin:100px 0px;
     font-family:Helvetica;
     text-align:center;
-    background-color:paleturquoise;
+    background-color:#00ff00;
     padding:60px 100px 100px 100px;
     border:dashed;
     border-width:10px 0px 10px 0px;
     border-top-color:black;
+    border-bottom-color:black;
 }
 #main-image{
     width:100%;
     height:100%;
 }
 button{
+    height:50px;
+    width:170px;
     border:solid;
     border-width:2px;
     border-radius:50px;
     background-color:lawngreen;
 }
 #lasttitle{
+    color:black;
     text-align:center;
 }
 input{
@@ -51,8 +56,7 @@ ul{
     top:0;
     float:right;
 }
-li{
-    
+li{   
     display:inline;
 }
 li a{
@@ -66,4 +70,40 @@ li a{
 }
 li a:hover{
     background-color:#495;;
+}
+#about{
+    background-size:cover;
+    background-repeat: no-repeat;
+    height:100%;
+    width:100%;
+}
+#white{
+    color:white;
+}
+#a0{
+    background-color:black;
+}
+#a1{
+    padding:300px 500px 0px 0px;
+    font-size:100px;
+    text-align:right;
+    color:white;
+    margin:0
+}
+#a2{
+    padding:0px 280px 0px 0px;
+    font-size:100px;
+    text-align:right;
+    color:white;
+    margin:0;
+}
+#a3{
+    padding:0px 100px 0px 0px;
+    font-size:100px;
+    text-align:right;
+    color:white;
+    margin:0;
+}
+#l1, #l2, #l3{
+    color:black;
 }
