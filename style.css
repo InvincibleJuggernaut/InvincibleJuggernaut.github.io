@@ -77,6 +77,13 @@ li a:hover{
     height:100%;
     width:100%;
 }
+#a00{
+    font-family: Helvetica;
+    font-weight: bolder;
+    padding: 140px 0px 100px 30px;
+    color:white;
+    font-size:250px;
+}
 #a0{
     background-color:black;
     background-size:100%;
@@ -106,17 +113,16 @@ li a:hover{
     color:black;
     font-weight: bolder;
 }
-#intro1{
+#intro2{
     padding: 50px 500px 0px 500px;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
     font-weight: bolder;
 }
-#intro2{
-    padding: 500px 500px 50px 500px;
+#intro1{
+    padding: 130px 500px 50px 500px;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-
