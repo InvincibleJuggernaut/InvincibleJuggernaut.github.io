@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <i>The revolution is coming!</i>
+subtitle:
 
 profile:
   align: right
