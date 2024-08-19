@@ -4,7 +4,7 @@ permalink: /repositories/
 title: Projects
 description: Some of my GitHub projects
 nav: true
-nav_order: 4
+nav_order: 2
 ---
 
 
